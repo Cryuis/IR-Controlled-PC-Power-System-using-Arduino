@@ -90,6 +90,11 @@ void loop() {
 The program continuously reads input from the IR receiver. When the OK button on the remote is detected, the relay is activated, simulating a press of the PC power button. Once the button is released, the relay is deactivated.
 
 ---
+## Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/m-KyTwU8WNY/0.jpg)](https://youtube.com/shorts/m-KyTwU8WNY)
+
+---
 
 ## Notes
 
